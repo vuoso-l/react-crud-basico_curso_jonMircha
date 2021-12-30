@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-crud-basico_curso_jonMircha/static/css/main.cc3881d9.css",
+    "main.js": "/react-crud-basico_curso_jonMircha/static/js/main.ebba2d9d.js",
+    "static/js/787.b585870c.chunk.js": "/react-crud-basico_curso_jonMircha/static/js/787.b585870c.chunk.js",
+    "index.html": "/react-crud-basico_curso_jonMircha/index.html",
+    "main.cc3881d9.css.map": "/react-crud-basico_curso_jonMircha/static/css/main.cc3881d9.css.map",
+    "main.ebba2d9d.js.map": "/react-crud-basico_curso_jonMircha/static/js/main.ebba2d9d.js.map",
+    "787.b585870c.chunk.js.map": "/react-crud-basico_curso_jonMircha/static/js/787.b585870c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc3881d9.css",
+    "static/js/main.ebba2d9d.js"
+  ]
+}
